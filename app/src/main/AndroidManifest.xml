@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ChangeInventory"></activity>
+        <activity android:name=".BirdSearch"></activity>
+        <activity android:name=".HW4Landing" />
+        <activity android:name=".ChangeInventory" />
         <activity android:name=".CheckInventory" />
         <activity android:name=".Portal" />
         <activity android:name=".MainActivity">
